@@ -1,4 +1,8 @@
 # Esta sesión será para aprender el uso de variables 
-print ("Hola Mundo!")
-print ("Hoy es miércoles")
-print ("Mañana es jueves")
+print ("Sistema de mensajería")
+distancia_km = 6.5
+peso_kg = 2.0
+es_urgente = True
+Zona = "B"
+distancia_km = distancia_km + 16
+print (distancia_km)
